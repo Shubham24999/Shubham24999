@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham24999
 - 👀 I’m interested in ...Web Devopment
-- 🌱 I’m currently learning ...Java Script
+- 🌱 I’m currently learning ...React(JS library)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
 
