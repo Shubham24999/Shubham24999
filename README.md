@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham24999
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in ...Web Devopment
 - 🌱 I’m currently learning ...React(JS library)
 - 💞️ I’m looking to collaborate on ...
