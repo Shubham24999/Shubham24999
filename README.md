@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Sql
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
+- LinkedIn... https://www.linkedin.com/in/shubhamfresher/
 
 <!---
 Shubham24999/Shubham24999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
