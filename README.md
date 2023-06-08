@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in ...Web Devopment
-- 🌱 I’m currently learning ...React(JS library)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web / Frontend Devopment
+- 🌱 I’m currently learning ... Sql
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
 
 <!---
