@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in ... Web / Frontend Devopment
+- 👀 I’m interested in ... Frontend Devopment(React js)
 - 🌱 I’m currently learning ... Sql
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
