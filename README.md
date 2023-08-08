@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
 - 👀 I’m interested in ... Frontend Devopment(React js)
-- 🌱 I’m currently learning ... Sql
+- 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
 - LinkedIn... https://www.linkedin.com/in/shubhamfresher/
