@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in ... Frontend Devopment(React js)
-- 🌱 I’m currently learning ... Next.js
+- 👀 I’m interested in ... Frontend Development(React js)
+- 🌱 I’m currently learning ... Node.js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
-- LinkedIn... https://www.linkedin.com/in/shubhamfresher/
+- LinkedIn... https://www.linkedin.com/in/shubham-240999-gupta/
 
 <!---
 Shubham24999/Shubham24999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
