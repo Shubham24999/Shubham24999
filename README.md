@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in ... Frontend Development(React js)
-- 🌱 I’m currently learning ... Node.js
-- 💞️ I’m looking to collaborate on ... MERN projects
+- 👀 I’m interested in ... FullStack Web Development
+- 🌱 I’m currently learning ... Springboot
+- 💞️ I’m looking to collaborate on ... MERN and Java Springboot Projects.
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
 - LinkedIn... https://www.linkedin.com/in/shubham-240999-gupta/
 
