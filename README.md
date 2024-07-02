@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
 - 👀 I’m interested in ... FullStack Web Development
-- 🌱 Currently, I am working on ... Java, Springboot.
+- 🌱 Currently, I am working on ... Java, Springboot and React JS.
 - 💞️ I want to collaborate on ... MERN and Java, Springboot Projects.
 - 📫 How to reach me ...shubhamgupta240999@gmail.com
 - LinkedIn... https://www.linkedin.com/in/shubham-240999-gupta/
